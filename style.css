@@ -25,6 +25,8 @@ h1{
 }
 .left{
   margin-top: -20px;
+  padding-left: 10px;
+  padding-right: 10px;
   height: 100vh;
   background: #7D4097;
   background: -webkit-linear-gradient(top, #7D4097, #20B8EE);
