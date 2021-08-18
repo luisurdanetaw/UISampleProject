@@ -94,6 +94,9 @@ i:hover{
 .left-text{
   color: white;
 }
+.responsive{
+  font-size: clamp(0.5rem, 10vh, 1rem);
+}
 .bottom-spacing{
   margin-bottom: 50px;
 }
